@@ -1,0 +1,29 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/e4/3a/c3/e43ac31863cefbb57ea4c36862ca12ec.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom;
+    background-size: cover;
+}
+
+img {
+    width: 100px;
+    position: absolute;
+    bottom: 0;
+}
+
+#b1 {
+    left: 0;
+}
+#b2 {
+    left: 10%;
+}
+#b3 {
+    left:50%;
+}
+#b4 {
+    left: 70%;
+}
+#b5 {
+    left: 30%;
+}
